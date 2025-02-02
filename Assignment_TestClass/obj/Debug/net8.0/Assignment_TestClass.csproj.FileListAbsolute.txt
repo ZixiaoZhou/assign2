@@ -1,0 +1,4 @@
+C:\Users\Keval\source\repos\Assignment_TestClass\obj\Debug\net8.0\Assignment_TestClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\Assignment_TestClass\obj\Debug\net8.0\Assignment_TestClass.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\Assignment_TestClass\obj\Debug\net8.0\Assignment_TestClass.AssemblyInfo.cs
+C:\Users\Keval\source\repos\Assignment_TestClass\obj\Debug\net8.0\Assignment_TestClass.csproj.CoreCompileInputs.cache
