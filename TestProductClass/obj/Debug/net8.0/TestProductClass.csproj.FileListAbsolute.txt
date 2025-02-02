@@ -1,0 +1,6 @@
+C:\Users\Keval\source\repos\TestProductClass\bin\Debug\net8.0\CoverletSourceRootsMapping_TestProductClass
+C:\Users\Keval\source\repos\TestProductClass\obj\Debug\net8.0\TestProductClass.csproj.AssemblyReference.cache
+C:\Users\Keval\source\repos\TestProductClass\obj\Debug\net8.0\TestProductClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\source\repos\TestProductClass\obj\Debug\net8.0\TestProductClass.AssemblyInfoInputs.cache
+C:\Users\Keval\source\repos\TestProductClass\obj\Debug\net8.0\TestProductClass.AssemblyInfo.cs
+C:\Users\Keval\source\repos\TestProductClass\obj\Debug\net8.0\TestProductClass.csproj.CoreCompileInputs.cache
